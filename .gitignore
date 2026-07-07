@@ -1,0 +1,8 @@
+# Generated output
+SchemaTree.html
+
+# Editor / OS cruft
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
