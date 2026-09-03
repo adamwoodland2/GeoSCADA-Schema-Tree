@@ -102,8 +102,8 @@ You are prompted to accept this disclaimer before the script runs (or pass `-Acc
 
 ## License
 
-Copyright (C) 2026 Adam Woodland.
+Copyright (c) 2026 Adam Woodland.
 
-Licensed under the **GNU General Public License v3.0** &mdash; see the [LICENSE](LICENSE) file, or
-<https://www.gnu.org/licenses/gpl-3.0.html>. This is free software, and you are welcome to
+Licensed under the **MIT License** &mdash; see the [LICENSE](LICENSE) file, or
+<https://opensource.org/licenses/MIT>. This is free software, and you are welcome to
 redistribute it under those conditions; it comes with **ABSOLUTELY NO WARRANTY**.
